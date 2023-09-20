@@ -1,0 +1,581 @@
+[{
+  "_id": {
+    "$oid": "6500528932eb19d3834cab99"
+  },
+  "cliente": "Erika",
+  "numFactura": "fe3236",
+  "tipoMaquina": [
+    "Diamond X",
+    "Black Edition II"
+  ],
+  "cantidad": [
+    1,
+    1
+  ],
+  "precioBase": [
+    222000000,
+    333000000
+  ],
+  "precioVenta": [
+    70000000,
+    70000000
+  ],
+  "numCuotas": 5,
+  "tasa": 1,
+  "anticipo": 1,
+  "interes": 1,
+  "fechaGracia": {
+    "$date": "2023-09-12T05:00:00.000Z"
+  },
+  "total": 150000000,
+  "estado": "Activo",
+  "fechaFacturacion": {
+    "$date": "2023-08-12T11:59:05.823Z"
+  },
+  "cumplimientoCuotas": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "detalleCuotas": [
+    {
+      "fecha": {
+        "$date": "2023-09-07T05:00:00.000Z"
+      },
+      "valor": 30000000,
+      "_id": {
+        "$oid": "650b6561abef2fa2d9c8e2c6"
+      },
+      "estadoCuota": "Vencida"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-02T05:00:00.000Z"
+      },
+      "valor": 30000000,
+      "_id": {
+        "$oid": "650b6561abef2fa2d9c8e2c7"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-27T05:00:00.000Z"
+      },
+      "valor": 30000000,
+      "_id": {
+        "$oid": "650b6561abef2fa2d9c8e2c8"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-11-21T05:00:00.000Z"
+      },
+      "valor": 30000000,
+      "_id": {
+        "$oid": "650b6561abef2fa2d9c8e2c9"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-12-16T05:00:00.000Z"
+      },
+      "valor": 30000000,
+      "_id": {
+        "$oid": "650b6561abef2fa2d9c8e2ca"
+      },
+      "estadoCuota": "Por pagar"
+    }
+  ],
+  "clienteData": {
+    "$oid": "64f6401e0ef7cdec39eeaeb7"
+  },
+  "estadoNegociacion": "En mora",
+  "__v": 43
+},
+{
+  "_id": {
+    "$oid": "6500539832eb19d3834caeea"
+  },
+  "cliente": "Reina",
+  "numFactura": "fe8352",
+  "tipoMaquina": [
+    "Panthera"
+  ],
+  "cantidad": [
+    1
+  ],
+  "precioBase": [
+    444400000
+  ],
+  "precioVenta": [
+    33000000
+  ],
+  "numCuotas": 7,
+  "tasa": 1,
+  "anticipo": 0.5,
+  "interes": 1,
+  "fechaGracia": {
+    "$date": "2023-09-12T05:00:00.000Z"
+  },
+  "total": 70000000,
+  "estado": "Inactivo",
+  "fechaFacturacion": {
+    "$date": "2023-07-12T12:03:36.579Z"
+  },
+  "cumplimientoCuotas": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "detalleCuotas": [
+    {
+      "fecha": {
+        "$date": "2023-09-07T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e152"
+      },
+      "estadoCuota": "Vencida"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-02T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e153"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-27T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e154"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-11-21T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e155"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-12-16T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e156"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-01-10T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e157"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-02-04T05:00:00.000Z"
+      },
+      "valor": 10000000,
+      "_id": {
+        "$oid": "650b653cabef2fa2d9c8e158"
+      },
+      "estadoCuota": "Por pagar"
+    }
+  ],
+  "clienteData": {
+    "$oid": "64ec2013323450369315f2de"
+  },
+  "estadoNegociacion": "En mora",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "650094656a00e16da4298eec"
+  },
+  "cliente": "Luis",
+  "numFactura": "fa9065",
+  "tipoMaquina": [
+    "Vip Eagle III"
+  ],
+  "cantidad": [
+    1
+  ],
+  "precioBase": [
+    466077833
+  ],
+  "precioVenta": [
+    1899888888
+  ],
+  "numCuotas": 20,
+  "tasa": 1,
+  "anticipo": 1,
+  "interes": 0.4,
+  "fechaGracia": {
+    "$date": "2023-09-12T05:00:00.000Z"
+  },
+  "total": 588933335,
+  "estado": "Activo",
+  "fechaFacturacion": {
+    "$date": "2023-06-12T16:40:05.652Z"
+  },
+  "cumplimientoCuotas": [
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "detalleCuotas": [
+    {
+      "fecha": {
+        "$date": "2023-09-07T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36bf"
+      },
+      "estadoCuota": "Vencida"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-02T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c0"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-27T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c1"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-11-21T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c2"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-12-16T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c3"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-01-10T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c4"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-02-04T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c5"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-02-29T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c6"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-03-25T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c7"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-04-19T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c8"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-05-14T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36c9"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-06-08T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36ca"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-07-03T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36cb"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-07-28T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36cc"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-08-22T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36cd"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-09-16T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36ce"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-10-11T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36cf"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-11-05T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36d0"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-11-30T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36d1"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-12-25T05:00:00.000Z"
+      },
+      "valor": 29446666.75,
+      "_id": {
+        "$oid": "650329d7b1995fdebcdf36d2"
+      },
+      "estadoCuota": "Por pagar"
+    }
+  ],
+  "clienteData": {
+    "$oid": "6500941f6a00e16da4298c9d"
+  },
+  "estadoNegociacion": "En mora",
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6509b0b2fb298b20660d6b3d"
+  },
+  "cliente": "Karen",
+  "numFactura": "FE6172",
+  "tipoMaquina": [
+    "Black Edition II"
+  ],
+  "cantidad": [
+    2
+  ],
+  "precioBase": [
+    65000000
+  ],
+  "precioVenta": [
+    33000000
+  ],
+  "numCuotas": 6,
+  "tasa": 1,
+  "anticipo": 1,
+  "fechaGracia": {
+    "$date": "2023-09-28T05:00:00.000Z"
+  },
+  "total": 100000000,
+  "estado": "Activo",
+  "fechaFacturacion": {
+    "$date": "2023-09-19T14:31:14.920Z"
+  },
+  "cumplimientoCuotas": [
+    true,
+    true,
+    true,
+    false,
+    false,
+    false
+  ],
+  "detalleCuotas": [
+    {
+      "fecha": {
+        "$date": "2023-09-23T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b7765d"
+      },
+      "estadoCuota": "Próxima a vencerse"
+    },
+    {
+      "fecha": {
+        "$date": "2023-10-18T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b7765e"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-11-12T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b7765f"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2023-12-07T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b77660"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-01-01T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b77661"
+      },
+      "estadoCuota": "Por pagar"
+    },
+    {
+      "fecha": {
+        "$date": "2024-01-26T05:00:00.000Z"
+      },
+      "valor": 16666666.666666666,
+      "_id": {
+        "$oid": "650a2ea8aa13e99b73b77662"
+      },
+      "estadoCuota": "Por pagar"
+    }
+  ],
+  "clienteData": {
+    "$oid": "6501faaa95e1d3d117f3f95b"
+  },
+  "estadoNegociacion": "En mora",
+  "__v": 4
+}]

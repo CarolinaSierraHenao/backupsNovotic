@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "65004e701398ee9e46a86363"
+  },
+  "estado": "Inactivo",
+  "referencia": "re1001",
+  "nombre": "Diamond X",
+  "imagen": "87a95a9a-d4e2-40ba-9716-79a1c5687d71.png",
+  "path": "C:\\Users\\admin\\Downloads\\novo_unido_v3\\backend\\public\\uploads\\products\\87a95a9a-d4e2-40ba-9716-79a1c5687d71.png",
+  "precioBase": 33000000,
+  "descripcion": "The elegant jcurved 155 UHD PCAP touchscreen and the flush 156 player TouchDeck make the DIAMOND X 155Ja safe bet for Xciting curve screen game presentation and maximum player appeal Refined details like the large foot well two XL start bu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65004f3d1398ee9e46a8636f"
+  },
+  "estado": "Activo",
+  "referencia": "re2200",
+  "nombre": "Black Edition II",
+  "imagen": "a5bf6d11-3b90-40ac-97c4-cb1e45f8111b.png",
+  "path": "C:\\Users\\admin\\Downloads\\novo_unido_v3\\backend\\public\\uploads\\products\\a5bf6d11-3b90-40ac-97c4-cb1e45f8111b.png",
+  "precioBase": 65000000,
+  "descripcion": "The successor of the popular Black Edition delivers moderncabinet design perfectly angled screens and crisp game presentationagainst the backdrop of a Black Metro finish and contrastingambient LED lighting concept",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65004fb21398ee9e46a8637d"
+  },
+  "estado": "Activo",
+  "referencia": "re0000",
+  "nombre": "Panthera KK",
+  "imagen": "8d4ec2c2-cf3f-4bbb-803e-9ec48f15b71f.jpeg",
+  "path": "C:\\Users\\admin\\Downloads\\novo_unido_v3\\backend\\public\\uploads\\products\\8d4ec2c2-cf3f-4bbb-803e-9ec48f15b71f.jpeg",
+  "precioBase": {
+    "$numberLong": "9999999999"
+  },
+  "descripcion": "The PANTHERA 227 will burst into your gaming room Its simple design interactive TouchDeck and delicate LED effects will provide greater ease of play and maximum performance ctyt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650050641398ee9e46a8638e"
+  },
+  "estado": "Activo",
+  "referencia": "re8769",
+  "nombre": "Vip Lounge",
+  "imagen": "33807441-0a4b-4306-a81f-0dc09d6636f2.jpeg",
+  "path": "C:\\Users\\admin\\Downloads\\novo_unido_v3 - copia\\backend\\public\\uploads\\products\\33807441-0a4b-4306-a81f-0dc09d6636f2.jpeg",
+  "precioBase": 33000000,
+  "descripcion": "The entire Very Important Player Experience in the best relaxed and curved style 43 vertical and curved screen gamesynchronized LED frames and a VIP seat in a unique compact format  this machine offers the perfect action for modern gaming rooms",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650092ba6a00e16da429863c"
+  },
+  "estado": "Inactivo",
+  "referencia": "fe6247",
+  "nombre": "Funmaster",
+  "imagen": "f37057fd-b5d8-47ec-b517-0d86b8d6c61e.png",
+  "path": "/home/yuan/Escritorio/borrar4/novo_unido_v2/backend/public/uploads/products/f37057fd-b5d8-47ec-b517-0d86b8d6c61e.png",
+  "precioBase": 434300500,
+  "descripcion": "Excellence in restoration transformed an epic machine into a new great actor the new FUNMASTER 227 introduces a renewed conception of the most popular classic titles on 27 screens captivating LED effects for a subtle enhancement of the atmosphere",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650093586a00e16da4298918"
+  },
+  "estado": "Activo",
+  "referencia": "fe0975",
+  "nombre": "Vip Eagle III",
+  "imagen": "92184c8a-04ac-4f70-8d72-35a5a7c3ce3d.png",
+  "path": "/home/yuan/Escritorio/borrar4/novo_unido_v2/backend/public/uploads/products/92184c8a-04ac-4f70-8d72-35a5a7c3ce3d.png",
+  "precioBase": 466077833,
+  "descripcion": "2 pantallas de juegos LED Full HD de 32 para una excelente visualizacin de grficos",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650095b26a00e16da42993c5"
+  },
+  "estado": "Activo",
+  "referencia": "fe4873",
+  "nombre": "Super V",
+  "imagen": "c6b65783-b8b2-4942-8c46-faedfb4aea4b.png",
+  "path": "/home/yuan/Escritorio/borrar4/novo_unido_v2/backend/public/uploads/products/c6b65783-b8b2-4942-8c46-faedfb4aea4b.png",
+  "precioBase": 778970000,
+  "descripcion": "El SUPER V GAMINATOR 324 es el gabinete de generacin futura El concepto SUPERV GAMINATOR 324 rediseñado para un mximo rendimiento y una experiencia de juego en pantallas extra anchas Pantallas extra anchas para vivir una experiencia de ju",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501fb3b95e1d3d117f3fece"
+  },
+  "estado": "Inactivo",
+  "referencia": "re4839",
+  "nombre": "Maquina y",
+  "imagen": "f1566fa9-0cd9-40df-8d3d-ee7b1c67ae90.png",
+  "path": "/home/yuan/Escritorio/borrar4/novo_unido_v2/backend/public/uploads/products/f1566fa9-0cd9-40df-8d3d-ee7b1c67ae90.png",
+  "precioBase": 330000000,
+  "descripcion": "No tiene descripcion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65067081c0e954a10e8b5de7"
+  },
+  "estado": "Activo",
+  "referencia": "RE9182",
+  "nombre": "Tragamonedas ABC",
+  "imagen": "15da8263-eddd-4b77-bc12-8bc1a4fb408f.jpeg",
+  "path": "C:\\Users\\admin\\Downloads\\novo_unido_v3\\backend\\public\\uploads\\products\\15da8263-eddd-4b77-bc12-8bc1a4fb408f.jpeg",
+  "precioBase": 33000000,
+  "descripcion": "ABCDEFGHIJK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b64dfbbc3187a42865487"
+  },
+  "estado": "Activo",
+  "referencia": "re3456",
+  "nombre": "Maquina xyz",
+  "imagen": "ba729e20-6521-4523-90e0-ee2af2af24a7.jpeg",
+  "path": "/opt/render/project/src/backend/public/uploads/products/ba729e20-6521-4523-90e0-ee2af2af24a7.jpeg",
+  "precioBase": 33000000,
+  "descripcion": "aaaaaaaaaaa",
+  "__v": 0
+}]

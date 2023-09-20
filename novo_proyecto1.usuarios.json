@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6484fcf113643d649cf162a7"
+  },
+  "email": "juan@gmail.com",
+  "password": "$2b$10$4HY3YvOaDLvGMt3G6L4.ke2AP7gzMukwiqnLyeZmL2uqiJdlhkrBm",
+  "estado": "Activo",
+  "rol": "user",
+  "token": "1h7ip0qp5lj9ss2o31kg",
+  "confirmado": true,
+  "createdAt": {
+    "$date": "2023-06-10T22:45:05.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T03:40:21.404Z"
+  },
+  "__v": 0,
+  "nombre": "JuanP",
+  "apellido": "adminP"
+},
+{
+  "_id": {
+    "$oid": "649612884d678860d633b49e"
+  },
+  "email": "sierrahenaocarolina@gmail.com",
+  "password": "$2b$10$GbXIp7xPmzfyoh7inBq9KOudddUM2XKtmEWaXVY9XBZG0M/GidAiG",
+  "estado": "Activo",
+  "rol": "admin",
+  "token": "1h8850rihgafo5vcm7c8",
+  "confirmado": true,
+  "createdAt": {
+    "$date": "2023-06-23T21:45:44.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T03:40:12.188Z"
+  },
+  "__v": 0,
+  "apellido": "Sierra",
+  "nombre": "Carolina"
+},
+{
+  "_id": {
+    "$oid": "64cac956ec77affd2cfc1c7f"
+  },
+  "email": "sierrahenaocarolina2017@gmail.com",
+  "password": "$2b$10$Eu/yHO4l4wqBFDSwIPEC4ePOW92QIRukD8aZy2Wsh9zPrn8lB/pte",
+  "nombre": "Caro",
+  "apellido": "Henao",
+  "estado": "Inactivo",
+  "rol": "Administador",
+  "token": null,
+  "confirmado": true,
+  "createdAt": {
+    "$date": "2023-08-02T21:23:34.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T17:34:06.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfd69cd72661e9278277b4"
+  },
+  "email": "reinauribe63@gmail.com",
+  "password": "$2b$10$8Vvn2QElZW4BNpqXw3yDOedHhXy.tRP8e.2yVueKGPnIhYl3UiLX6",
+  "nombre": "Reina",
+  "apellido": "Uribe",
+  "estado": "Activo",
+  "rol": "Administador",
+  "token": "1h855agkbjcjk6sbgb08",
+  "confirmado": false,
+  "createdAt": {
+    "$date": "2023-08-18T20:37:48.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-18T20:37:48.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e52245d6714d9a2563cf59"
+  },
+  "email": "aperezn@misena.edu.co",
+  "password": "$2b$10$9fYnUuOHMtyVR49B1xFzn.y1K.YBF9gqq67VwLLSrYLP.AJUnATSS",
+  "nombre": "Alvaro",
+  "apellido": "Perez Niño",
+  "estado": "Activo",
+  "rol": "Administador",
+  "token": null,
+  "confirmado": true,
+  "createdAt": {
+    "$date": "2023-08-22T21:01:57.359Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T02:20:38.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f63f790ef7cdec39eeadd2"
+  },
+  "email": "sofia@gmail.com",
+  "password": "$2b$10$ypApM/NVT12CvWSgSvvW5uncPjr0vXXmzK06/Fe2a8LQu09cK7UqK",
+  "nombre": "sofia",
+  "apellido": "lopez",
+  "estado": "Activo",
+  "rol": "Administador",
+  "token": "1h9gsibftp6je6gbhb7g",
+  "confirmado": false,
+  "createdAt": {
+    "$date": "2023-09-04T20:35:05.179Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-04T20:35:05.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f7a3fe586a67c1b0ec0e11"
+  },
+  "email": "julianaandreaescobar2005@gmail.com",
+  "password": "$2b$10$l.fHEyW0vvIGQ2gLqqfWk.ufHX.ZGyObBYDQQB2Yw/lg.SYjyxaDO",
+  "nombre": "Juliana a",
+  "apellido": "Muñoz",
+  "estado": "Activo",
+  "rol": "Administador",
+  "token": "1h9jj2ba1ud75nl81hl8",
+  "confirmado": true,
+  "createdAt": {
+    "$date": "2023-09-05T21:56:14.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T18:06:40.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501f9f595e1d3d117f3f5d5"
+  },
+  "email": "ana@gmail.com",
+  "password": "$2b$10$K2FxpkWeUPnChW0y8xTz7O5M0D92UymL8koyCB6ugaDm9/g7iCyI.",
+  "nombre": "Ana",
+  "apellido": "diaz",
+  "estado": "Inactivo",
+  "rol": "Administador",
+  "token": "1ha7oq37qoj9vnhrgch",
+  "confirmado": false,
+  "createdAt": {
+    "$date": "2023-09-13T18:05:41.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T18:06:02.635Z"
+  },
+  "__v": 0
+}]

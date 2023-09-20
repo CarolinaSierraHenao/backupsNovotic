@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "64ec2013323450369315f2de"
+  },
+  "tipoDocumento": "Cedula",
+  "cedula": 10372890,
+  "nombre": "Reina Yuli",
+  "apellido": "Uribe",
+  "direccion": "cr 10 b",
+  "telefono": {
+    "$numberLong": "3001827648"
+  },
+  "email": "sierrahenaocarolina@gmail.com",
+  "tipoDocumentoCod": "Cedula",
+  "cedulaCodeudor": 1033177373,
+  "nombreCodeudor": "Alvaro",
+  "apellidoCodeudor": "Perez",
+  "telefonoCodeudor": {
+    "$numberLong": "3012883987"
+  },
+  "grupo": "Inversiones SAS",
+  "pais": "Colombia",
+  "estado": "Activo",
+  "__v": 0,
+  "tieneNegociacionesEnMora": false
+},
+{
+  "_id": {
+    "$oid": "64f6401e0ef7cdec39eeaeb7"
+  },
+  "tipoDocumento": "Nit",
+  "cedula": 1023657386,
+  "nombre": "Erika",
+  "apellido": "lopez",
+  "direccion": "dig545n",
+  "telefono": 48795375,
+  "email": "jfcorrales@misena.edu.co",
+  "tipoDocumentoCod": "Cedula",
+  "cedulaCodeudor": 1234567,
+  "nombreCodeudor": "heid",
+  "apellidoCodeudor": "yfjig",
+  "telefonoCodeudor": 1234567666,
+  "grupo": "Inversiones ABC",
+  "pais": "Panamá",
+  "estado": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500941f6a00e16da4298c9d"
+  },
+  "tipoDocumento": "Cedula",
+  "cedula": 77687654,
+  "nombre": "Luis",
+  "apellido": "Diaz",
+  "direccion": "Av 5 # 25 -56",
+  "telefono": {
+    "$numberLong": "3207886559"
+  },
+  "email": "luis@gmail.com",
+  "tipoDocumentoCod": "Cedula",
+  "cedulaCodeudor": 678993672,
+  "nombreCodeudor": "Camila",
+  "apellidoCodeudor": "Ruiz",
+  "telefonoCodeudor": {
+    "$numberLong": "3002358967"
+  },
+  "grupo": "Nutresa SAS",
+  "pais": "Colombia",
+  "estado": "Activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501faaa95e1d3d117f3f95b"
+  },
+  "tipoDocumento": "Cedula",
+  "cedula": 10287373,
+  "nombre": "Karen",
+  "apellido": "Diaz",
+  "direccion": "calle 78 # 989",
+  "telefono": 49833748,
+  "email": "karane@gmail.com",
+  "tipoDocumentoCod": "Cedula",
+  "cedulaCodeudor": {
+    "$numberLong": "7787878444"
+  },
+  "nombreCodeudor": "luis",
+  "apellidoCodeudor": "corrrales",
+  "telefonoCodeudor": 77888344,
+  "grupo": "inversiones",
+  "pais": "Colombia",
+  "estado": "Activo",
+  "__v": 0
+}]
